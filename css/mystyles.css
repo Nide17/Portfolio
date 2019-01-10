@@ -1,0 +1,116 @@
+
+.row{
+padding: 10px;
+margin: 10px;
+}
+#myFooter {
+    color: white;
+    padding-top:2px;
+	  margin-top:2px;
+}
+
+#myFooter .footer-copyright {
+    background-color: #333333;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    text-align: center;
+}
+
+#myFooter .row {
+    margin-bottom: 6px;
+}
+
+#myFooter .footer-copyright p {
+    margin: 10px;
+    color: #ccc;
+}
+
+#myFooter ul {
+    list-style-type: none;
+    padding-left: 0;
+    line-height: 1.7;
+}
+
+#myFooter h5 {
+		text-align:left;
+		color:white;
+    font-size: 18px;
+}
+#myFooter a {
+    color:#ECF0F1;
+    text-decoration: none;
+}
+
+#myFooter a:hover, #myFooter a:focus {
+    text-decoration: none;
+    color: yellow;
+}
+
+#myFooter .social-networks {
+    text-align: left;
+}
+
+#myFooter .social-networks a {
+    font-size: 32px;
+    border-radius: 20%;
+}
+.fa{
+  padding: 5px;
+  width:40px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px;
+}
+
+.fa:hover{
+  opacity: 0.7;
+}
+#myFooter .social-networks a:hover {
+    text-decoration: none;
+    color: #2C3E50;
+}
+#myFooter .github {
+    color: white;
+    background: #717D7E;
+}
+#myFooter .linkedin {
+    color: white;
+    background: #007bb5;
+}
+#myFooter .whatsapp {
+    color: white;
+    background: #28B463;
+
+}
+#myFooter .facebook {
+  color: #white;
+  background: #3B5998;
+}
+#myFooter .instagram {
+  color:white;
+  background: #8a3ab9;
+}
+#myFooter .twitter {
+    color:white;
+    background: #007bb5;
+}
+
+#myFooter .btn {
+    color: white;
+    background-color:#212F3C;
+    border-radius: 20px;
+    border: none;
+    width: auto;
+    display: block;
+    margin-top: 10px;
+    line-height: 25px;
+}
+
+@media screen and (max-width: 1000px) {
+    #myFooter {
+        text-align: center;
+    }
+}
+#myModal{
+  color: #1B2631;
+}
